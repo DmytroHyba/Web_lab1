@@ -1,0 +1,124 @@
+#navbar ul{
+  display: none;
+  background-color: #FB9F82;
+}
+
+#navbar li:hover ul {
+  display: block;
+}
+
+#navbar, #navbar ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  text-transform: uppercase;
+
+}
+
+#navbar {
+  height: 40px;
+  background-color: #666;
+  padding-left: 270px;
+  min-width: 470px;
+}
+
+#navbar li {
+  float: left;
+  position: relative;
+  height: 100%;
+}
+
+#navbar li a {
+  display: block;
+  padding: 6px;
+  width: 150px;
+  color: #fff;
+  text-decoration: none;
+  text-align: center;
+  
+}
+
+#navbar ul li { 
+  float: none; 
+  text-transform: uppercase;
+}
+
+#navbar li:hover { 
+  background-color: #FB9F82 ;
+  transform: scale(1.2);
+  transition: 0.5s;
+}
+
+#navbar ul li:hover { 
+  background-color: #666;
+  transform: scale(1.05); 
+}
+
+
+body {
+  background-image: url(http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg);
+  margin: 0;
+  padding: 0;
+
+} 
+
+.container {
+
+  max-width: 59.448em;
+  padding-left: 2.888em;
+  padding-right: 2.888em;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: content-box;
+  width: auto;
+}
+
+.title-container {
+
+  width: 93.64487%;
+  float: left;
+  margin-right: 1.68214%;
+  display: inline;
+  margin-left: 6.35513%;
+  font-weight: bold;
+  font-size: x-large;
+  color: white;
+   
+}
+
+
+
+.text-footer {
+
+  word-spacing: 0.1em;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+  color: yellow;
+  
+}
+
+#footerURL {
+
+  color: yellow;
+}
+
+.logo {
+
+  position: relative;
+  width: auto;
+  height: auto;
+  z-index: 2;
+  max-width: 100%;
+
+}
+
+.type1 {
+
+  font-family: Algerian;
+}
+
+.type2 {
+
+  font-family: Times New Roman;
+}
