@@ -1,0 +1,69 @@
+body {
+  background-image: url(http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg);
+  margin: 0;
+  padding: 0;
+
+} 
+
+.bg-custom {
+  background-color: black;
+}
+
+.container {
+
+  max-width: 59.448em;
+  padding-left: 2.888em;
+  padding-right: 2.888em;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: content-box;
+  width: auto;
+}
+
+.title-container {
+
+  width: 93.64487%;
+  float: left;
+  margin-right: 1.68214%;
+  display: inline;
+  margin-left: 6.35513%;
+  font-weight: bold;
+  font-size: x-large;
+  color: white;
+   
+}
+
+.type1 {
+
+  font-family: Algerian;
+}
+
+.type2 {
+
+  font-family: Times New Roman;
+}
+
+.text-footer {
+
+  word-spacing: 0.1em;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+  color: grey;
+  
+}
+
+#footerURL {
+
+  color: grey;
+}
+
+.a {
+
+  color: #B68550;
+  margin: .5em 0;
+  font-family: "neuton",Georgia,"Times New Roman",Times,serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 1.3em;
+}
