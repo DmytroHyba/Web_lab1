@@ -1,0 +1,142 @@
+body {
+  background-image: url(http://wallpoper.com/images/00/31/33/51/black-background_00313351.jpg);*/
+  margin: 0;
+  padding: 0;
+}
+
+.bg-custom {
+  background-color: black;
+}
+
+.title-container {
+  width: 93.64487%;
+  float: left;
+  margin-right: 1.68214%;
+  display: inline;
+  margin-left: 6.35513%;
+  font-weight: bold;
+  font-size: x-large;
+  color: white;
+}
+
+
+#footerURL {
+  color: grey;
+}
+
+.text-footer {
+  font: large/1.556 "Palatino Linotype";
+  word-spacing: 0.1em;
+  max-width: 960px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+  color: grey;
+}
+
+/*.slideUp{
+  font-family: Algerian;
+  color: #c6922c;
+
+  animation-name: slideUp;
+  -webkit-animation-name: slideUp;  
+
+  animation-duration: 1s; 
+  -webkit-animation-duration: 1s;
+
+  animation-timing-function: ease;  
+  -webkit-animation-timing-function: ease;
+
+  visibility: visible !important;     
+}
+
+@keyframes slideUp {
+  0% {
+    transform: translateY(100%);
+  }
+  50%{
+    transform: translateY(-8%);
+  }
+  65%{
+    transform: translateY(4%);
+  }
+  80%{
+    transform: translateY(-4%);
+  }
+  95%{
+    transform: translateY(2%);
+  }     
+  100% {
+    transform: translateY(0%);
+  } 
+}
+
+
+@keyframes slideRight {
+  0% {
+    transform: translateX(-150%);
+  }
+  50%{
+    transform: translateX(8%);
+  }
+  65%{
+    transform: translateX(-4%);
+  }
+  80%{
+    transform: translateX(4%);
+  }
+  95%{
+    transform: translateX(-2%);
+  }     
+  100% {
+    transform: translateX(0%);
+  } 
+}*/
+
+/*img.photo2 {
+  width: 440px;
+  height: auto;
+  animation-name: slideRight;
+
+  -webkit-animation-name: slideRight; 
+
+  animation-duration: 1s; 
+  -webkit-animation-duration: 1s;
+
+  animation-timing-function: ease-in-out; 
+  -webkit-animation-timing-function: ease-in-out;   
+
+  visibility: visible !important; 
+}*/
+
+.type1 {
+  font-family: Times New Roman;
+}
+
+.a {
+  color: #B68550;
+  margin: .5em 0;
+  font-family: "neuton",Georgia,"Times New Roman",Times,serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 1.3em;
+}
+
+.card-text {
+  color: black;
+  font-family: "neuton",Georgia,"Times New Roman",Times,serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 1.3em;
+}
+
+.container {
+  margin-top: 6%;
+  margin-bottom: 6%;
+}
+
+.card {
+  background: #db5c4c;
+  transform: scale(0.9);
+}
+
+
