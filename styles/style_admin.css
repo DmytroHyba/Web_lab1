@@ -1,0 +1,133 @@
+body {
+	background: url("../images/bg-news.jpg");
+	font-family: Lato,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+
+#custom-text {
+
+  color: #aaa;
+}
+#addImageButton {
+	position: relative;
+}
+
+#real-file {
+	position: absolute;
+	top: 450px;
+	left: 427px;
+	font-size: 15px;
+}
+
+.mainLogo {
+	height: 100%;
+	text-align: center;
+	background-color:#000000;
+	padding: 15px;
+}
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.bg-custom {
+    background-color: #171616;
+}
+
+.row1 {
+	margin: 0 auto;
+}
+
+.row1 div {
+	display: inline-block;
+	margin: 100px 80px 0 80px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.title textarea {
+	background-color: white;
+	width: 498px;
+	height: 50px;
+	padding: 9px;
+}
+
+.body textarea {
+	background-color: white;
+	width: 498px;
+	height: 280px;
+	margin-top: -100px;
+	margin-left: 249px;
+	padding: 9px;
+}
+
+.body {
+	display: block;
+}
+
+.row2 {
+	margin: 0 auto;
+}
+
+.row2 div {
+	display: inline-block;
+	margin-top: 100px;
+	margin-right: 52px;
+	margin-left: 110px;
+}
+
+footer {
+	margin: 
+} 
+
+@media (max-width: 1024px) {
+	.row1 div {
+		display: inline-block;
+		margin: 35px 20px 0 20px;
+	}
+
+	.row2 div {
+		display: inline-block;
+		margin: 35px -8px 0 50px; 
+	}
+	.body textarea {
+		margin: -45px 0px 0 130px;
+	}
+}
+
+@media (max-width: 748px) {
+	.row2 div {
+		display: block;
+		margin: 35px 0 0 0;
+	}
+	.body textarea {
+		display: block;
+		margin: -20px 0px 0 0px;
+	}
+}
+
+@media (max-width: 767px) {
+	.mainLogo-box div {
+		display: none;
+		margin: 35px -8px 0 50px; 
+	}
+}
+
+@media (max-width: 600px) {
+	.image img {
+		width: 100%;
+	}
+	.row1 div {
+		margin: 20px 5px 0 5px;
+	}
+	.row2 div {
+		margin: 20px 5px 0 5px;
+	}
+	.title textarea {
+		width: 100%;
+	}
+	.body textarea {
+		margin-top: 0px;
+		width: 100%;
+	}
+}
+
