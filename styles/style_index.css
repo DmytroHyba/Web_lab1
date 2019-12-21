@@ -1,0 +1,67 @@
+body {
+	background-color: #000000;
+	font-family: Lato,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+.mainLogo {
+	height: 100%;
+	text-align: center;
+	background-color:#000000;
+	padding: 15px;
+}
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.bg-custom {
+    background-color: #171616;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 60px;
+    width: 60px; 
+}
+
+.aboutGroup {
+	font-size: 25px;
+	padding: 30px;
+}
+
+.aboutGroupdiv {
+	background-color: #171616;
+	padding: 100px;
+	color: white;
+}
+
+h1 {
+	color: white;
+	text-shadow: 0 5px 1px rgba(34,34,34,.5);
+	padding-bottom: 20px;
+}
+
+.bestAlboms {
+	background-color: #27605c;
+}
+
+@media (max-width: 767px) {
+	.mainLogo-box div {
+		display: none;
+	}
+}
+
+@media (max-width: 767px) {
+	.aboutGroupdiv {
+		padding: 20px;
+	}
+}
+
+@media (max-width: 667px) {
+	.aboutGroup {
+		padding: 5px;
+		font-size: 20px;
+	}
+	.aboutGroupdiv {
+		padding: 20px;
+	}
+}

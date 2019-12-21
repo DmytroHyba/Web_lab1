@@ -1,0 +1,53 @@
+body {
+	background-size: 100%;
+	background-image: url("../images/bg-news.jpg");
+	font-family: Lato,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+}
+
+.mainLogo {
+	height: 100%;
+	text-align: center;
+	background-color:#000000;
+	padding: 15px;
+}
+
+
+.navbar-nav li {
+	padding-right: 20px;
+}
+
+.content-box {
+	margin: 0px 100px 0px 100px;
+	padding: blue;
+
+}
+
+.bg-custom {
+    background-color: #171616;
+}
+
+.container {
+	margin-top: 6%;
+	margin-bottom: 6%;
+}
+
+.card {
+	background: #FCF7F7;
+}
+
+.card:hover {
+	box-shadow: -1px 9px 40px -12px rgba(0,0,0,0.75);
+	transform: scale(1.03);
+}
+
+
+
+@media (max-width: 767px) {
+	.mainLogo-box div {
+		display: none;
+	}
+}
+
+
+
+
