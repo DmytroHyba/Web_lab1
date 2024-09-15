@@ -1,0 +1,29 @@
+CACHE MANIFEST
+
+CACHE:
+images/1.jpg
+images/4.jpg
+images/6.jpg
+images/acdchero_web.jpg
+images/black-background_00313351.jpg
+images/logo.png
+images/завантаження_(2).jpg
+
+css/concet_venue.css
+css/error.css
+css/fan_appeal.css
+css/index.css
+css/news.css
+css/tour_schedule.css
+
+tour_schedule.html
+news.html
+index.html
+fan_appeal.html
+concert_venue.html
+
+NETWORK:
+*
+
+FALLBACK:
+admin.html error.html
